@@ -1,1 +1,1 @@
-# laba11
+mindmap сайта https://ylianovsk.tortoff.net/
